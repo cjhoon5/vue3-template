@@ -1,6 +1,7 @@
 <template>
   <img 
     src="~assets/test.png"
-    alt="test" />
+    alt="test" 
+    />
     <div />
 </template>
